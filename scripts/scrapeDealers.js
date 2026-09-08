@@ -10,9 +10,9 @@ async function scrapePage(page) {
 
   const response = await axios.get(url);
 
-  console.log(`Downloaded page ${page}`);
+  const $ = cheerio.load(response.data);
 
-  return response.data;
+  console.log($("article.node--type-regulated-dealer").length);
 }
 
 scrapePage(0);
