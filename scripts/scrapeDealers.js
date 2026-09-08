@@ -14,3 +14,5 @@ async function scrapePage(page) {
 
   return response.data;
 }
+
+scrapePage(0);
