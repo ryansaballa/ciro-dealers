@@ -14,8 +14,8 @@
       "website": "http://www.3ifinancial.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8582,
+      "longitude": -79.3985
     },
     {
       "id": "a-g-p-canada-investments-ulc",
@@ -28,8 +28,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8064,
+      "longitude": -79.5995
     },
     {
       "id": "acc-global-financial-inc",
@@ -42,8 +42,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8582,
+      "longitude": -79.3985
     },
     {
       "id": "acker-finley-inc",
@@ -56,8 +56,8 @@
       "website": "http://www.ackerfinley.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "acumen-capital-finance-partners-limited",
@@ -70,8 +70,8 @@
       "website": "https://acumencapital.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "addington-financial-corporation",
@@ -84,8 +84,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8501,
+      "longitude": -79.5163
     },
     {
       "id": "afn-limited-partnership",
@@ -98,8 +98,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2866,
+      "longitude": -123.1158
     },
     {
       "id": "agora-dealer-services-corp",
@@ -112,8 +112,8 @@
       "website": "https://agoracorp.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6935,
+      "longitude": -79.6069
     },
     {
       "id": "aimstar-capital-group-inc",
@@ -126,8 +126,8 @@
       "website": "http://www.aimstar.ca/",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8479,
+      "longitude": -79.3288
     },
     {
       "id": "aldersley-securities-inc",
@@ -140,8 +140,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 44.1501,
+      "longitude": -81.033
     },
     {
       "id": "aligned-capital-partners-inc",
@@ -154,8 +154,8 @@
       "website": "https://www.alignedcapitalpartners.com/",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.3799,
+      "longitude": -79.7668
     },
     {
       "id": "amerity-wealth-management-inc",
@@ -168,8 +168,8 @@
       "website": "https://www.amerity.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8479,
+      "longitude": -79.3288
     },
     {
       "id": "argosy-securities-inc",
@@ -182,8 +182,8 @@
       "website": "https://www.argosyne/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8582,
+      "longitude": -79.3985
     },
     {
       "id": "artech-asset-advisory-services-inc",
@@ -196,8 +196,8 @@
       "website": "http://www.artechservices.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.274,
+      "longitude": -123.0074
     },
     {
       "id": "arton-investments",
@@ -210,16 +210,16 @@
       "website": "https://www.artoninvest.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4825,
+      "longitude": -73.5933
     },
     {
       "id": "assetplus-capital-inc",
       "name": "AssetPlus Capital Inc.",
-      "address": "155-10551 Shellbridge WayRichmond, BC V6X 2WG",
+      "address": "155-10551 Shellbridge WayRichmond, BC",
       "city": "Shellbridge WayRichmond",
       "province": "BC",
-      "postalCode": "",
+      "postalCode": "V6X 2WG",
       "phone": "+1 604-273-0232",
       "website": "",
       "category": "Mutual Fund Dealer",
@@ -238,8 +238,8 @@
       "website": "https://cormark.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "atb-securities-inc",
@@ -252,8 +252,8 @@
       "website": "https://www.atb.com/personal",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 53.5428,
+      "longitude": -113.4974
     },
     {
       "id": "aviso-financial-inc",
@@ -266,8 +266,8 @@
       "website": "",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2833,
+      "longitude": -123.1298
     },
     {
       "id": "b2b-bank-financial-services-inc",
@@ -280,8 +280,8 @@
       "website": "https://b2bbank.com/dealerservices/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "b2b-bank-securities-services-inc",
@@ -294,8 +294,8 @@
       "website": "https://b2bbank.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "barclays-capital-canada-inc",
@@ -308,8 +308,8 @@
       "website": "https://home.barclays/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "beacon-securities-limited",
@@ -322,8 +322,8 @@
       "website": "https://beaconsecurities.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "belay-wealth-inc",
@@ -336,8 +336,8 @@
       "website": "https://belaywealth.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 50.9894,
+      "longitude": -114.052
     },
     {
       "id": "bloom-burton-securities-inc",
@@ -350,8 +350,8 @@
       "website": "https://www.bloomburton.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "bloomberg-tradebook-canada-company",
@@ -364,8 +364,8 @@
       "website": "https://www.bloomberg.com/profile/company/0148375D:CN",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "bmo-investments-inc",
@@ -378,8 +378,8 @@
       "website": "http://www.bmo.com/mutualfunds",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "bmo-investorline-inc",
@@ -392,8 +392,8 @@
       "website": "https://www.bmo.com/main/personal/investments/online-investing/investorline/self-directed/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "bmo-nesbitt-burns-inc",
@@ -406,8 +406,8 @@
       "website": "https://www.bmo.com/nesbittburns",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "bnp-paribas-canada-securities-inc",
@@ -420,8 +420,8 @@
       "website": "https://www.bnpparibas.ca/en/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.504,
+      "longitude": -73.5747
     },
     {
       "id": "brookfield-securities-canada-lp",
@@ -434,8 +434,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "c-s-t-spark-inc",
@@ -448,8 +448,8 @@
       "website": "https://cstspark.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7801,
+      "longitude": -79.3479
     },
     {
       "id": "caldwell-securities-ltd",
@@ -462,8 +462,8 @@
       "website": "https://caldwellsecurities.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "canaccord-genuity-corp",
@@ -476,8 +476,8 @@
       "website": "https://www.canaccordgenuity.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2833,
+      "longitude": -123.1298
     },
     {
       "id": "candeal-markets-inc",
@@ -490,8 +490,8 @@
       "website": "https://www.candeal.com/en",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "candor-financial-group-inc",
@@ -504,8 +504,8 @@
       "website": "http://www.candorgroup.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6662,
+      "longitude": -79.5282
     },
     {
       "id": "canfin-magellan-investments-inc",
@@ -518,8 +518,8 @@
       "website": "http://www.canfin.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7144,
+      "longitude": -79.5909
     },
     {
       "id": "cantor-fitzgerald-canada-corporation",
@@ -532,8 +532,8 @@
       "website": "https://www.cantor.com/global/canada/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "carte-wealth-management-inc",
@@ -546,8 +546,8 @@
       "website": "http://www.cartewm.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6413,
+      "longitude": -79.6296
     },
     {
       "id": "casgrain-company-limited",
@@ -560,8 +560,8 @@
       "website": "https://www.casgrain.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "cedar-leaf-capital-inc",
@@ -574,8 +574,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "ci-assante-wealth-management-ltd",
@@ -588,8 +588,8 @@
       "website": "https://www.cifinancial.com/ci-assante/ca/en/index.html",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "ci-investment-services-inc",
@@ -602,8 +602,8 @@
       "website": "https://www.ciinvestmentservices.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "cibc-investor-services-inc",
@@ -616,8 +616,8 @@
       "website": "https://www.investorsedge.cibc.com/en/home.html",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "cibc-securities-inc",
@@ -630,8 +630,8 @@
       "website": "http://www.cibc.com/ca/mutual-funds/index.html",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "cibc-world-markets-inc",
@@ -644,8 +644,8 @@
       "website": "https://www.cibc.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "citadel-securities-canada-ulc",
@@ -658,8 +658,8 @@
       "website": "https://www.citadelsecurities.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "citigroup-global-markets-canada-inc",
@@ -672,8 +672,8 @@
       "website": "https://www.citigroup.com/canada/en/customer-information/citigroup-global-markets-canada.html",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "cix-trading-inc",
@@ -686,8 +686,8 @@
       "website": "https://www.thecix.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "clarus-securities-inc",
@@ -700,8 +700,8 @@
       "website": "http://www.clarussecurities.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "clear-street-canada-inc",
@@ -714,8 +714,8 @@
       "website": "https://clearstreet.io/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "cmc-markets-canada-inc",
@@ -728,8 +728,8 @@
       "website": "https://www.cmcmarkets.com/en-ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "co-operators-financial-investment-services-inc",
@@ -742,8 +742,8 @@
       "website": "https://www.cooperators.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.4921,
+      "longitude": -80.2267
     },
     {
       "id": "coinsquare-capital-markets-ltd",
@@ -756,8 +756,8 @@
       "website": "https://coinsquare.com/en-ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6404,
+      "longitude": -79.3995
     },
     {
       "id": "colliers-securities-canada-inc",
@@ -770,8 +770,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "cti-capital-securities-inc",
@@ -784,8 +784,8 @@
       "website": "http://cticap.com/home/?lang=en",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5168,
+      "longitude": -73.6072
     },
     {
       "id": "cumberland-private-wealth-management-inc",
@@ -798,8 +798,8 @@
       "website": "https://cumberlandprivate.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6736,
+      "longitude": -79.4035
     },
     {
       "id": "d-w-good-investment-company-ltd",
@@ -812,8 +812,8 @@
       "website": "http://www.dwgood.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 53.522,
+      "longitude": -113.459
     },
     {
       "id": "de-thomas-wealth-management-corp",
@@ -826,8 +826,8 @@
       "website": "http://www.dethomaswealth.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8582,
+      "longitude": -79.3985
     },
     {
       "id": "designed-securities-ltd",
@@ -840,8 +840,8 @@
       "website": "https://www.designedwealthmanagement.ca/",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "desjardins-financial-services-firm-inc",
@@ -854,8 +854,8 @@
       "website": "http://www.desjardins.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 46.8033,
+      "longitude": -71.1779
     },
     {
       "id": "desjardins-securities-inc",
@@ -868,8 +868,8 @@
       "website": "https://www.vmdconseil.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "donro-financial-ltd",
@@ -882,8 +882,8 @@
       "website": "http://www.donro.on.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.1419,
+      "longitude": -79.2966
     },
     {
       "id": "dubeau-capital-co-ltd",
@@ -896,8 +896,8 @@
       "website": "https://dubeaucapital.com/en/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 46.8545,
+      "longitude": -71.3044
     },
     {
       "id": "educators-financial-group-inc",
@@ -910,8 +910,8 @@
       "website": "https://educatorsfinancialgroup.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7801,
+      "longitude": -79.3479
     },
     {
       "id": "edward-jones",
@@ -924,8 +924,8 @@
       "website": "https://www.edwardjones.com/us-en/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.5771,
+      "longitude": -79.6306
     },
     {
       "id": "equity-associates-inc",
@@ -938,8 +938,8 @@
       "website": "http://www.equityassociates.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8064,
+      "longitude": -79.5995
     },
     {
       "id": "fernhill-financial-corporation",
@@ -952,8 +952,8 @@
       "website": "http://www.fernhill.bc.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 48.4793,
+      "longitude": -123.5271
     },
     {
       "id": "fidelity-clearing-canada-ulc",
@@ -966,8 +966,8 @@
       "website": "https://www.clearing.fidelity.ca/fcc/en/home",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6564,
+      "longitude": -79.386
     },
     {
       "id": "fidelity-wealth-ulc",
@@ -980,16 +980,16 @@
       "website": "",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6564,
+      "longitude": -79.386
     },
     {
       "id": "fortrade-canada-limited",
       "name": "Fortrade Canada Limited",
-      "address": "Michelin House81 Fulham RoadLondon ON SW36RD",
+      "address": "Michelin House81 Fulham RoadLondon ON",
       "city": "Fulham RoadLondon",
       "province": "ON",
-      "postalCode": "",
+      "postalCode": "SW3 6RD",
       "phone": "778-658-0363",
       "website": "https://www.fortrade.com/",
       "category": "Investment Dealer",
@@ -1008,8 +1008,8 @@
       "website": "http://www.fortunawealthmanagement.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6413,
+      "longitude": -79.6296
     },
     {
       "id": "foster-associates-financial-services-inc",
@@ -1022,8 +1022,8 @@
       "website": "https://www.fostergroup.ca/",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "friedberg-mercantile-group-ltd",
@@ -1036,8 +1036,8 @@
       "website": "http://www.friedberg.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "frontier-capital-funds-inc",
@@ -1050,8 +1050,8 @@
       "website": "https://www.frontiercapitalfunds.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "ftc-investor-services-inc",
@@ -1064,8 +1064,8 @@
       "website": "http://www.ftcinvestorservices.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "funds-direct-canada-inc",
@@ -1078,16 +1078,16 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 50.419,
+      "longitude": -104.6774
     },
     {
       "id": "gain-capital-forex-com-canada-ltd",
       "name": "GAIN Capital - FOREX.com Canada Ltd.",
-      "address": "30 Independence Blvd., Suite 300Warren NJ 07059",
+      "address": "30 Independence Blvd., Suite 300 Warren NJ",
       "city": "",
       "province": "",
-      "postalCode": "",
+      "postalCode": "07059",
       "phone": "908-731-0700",
       "website": "https://www.forex.com/en-ca/",
       "category": "Investment Dealer",
@@ -1106,8 +1106,8 @@
       "website": "https://generationai.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6899,
+      "longitude": -79.3853
     },
     {
       "id": "global-maxfin-investments-inc",
@@ -1120,8 +1120,8 @@
       "website": "http://www.globalmaxfin.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8582,
+      "longitude": -79.3985
     },
     {
       "id": "goldman-sachs-canada-inc",
@@ -1134,8 +1134,8 @@
       "website": "https://www.goldmansachs.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "goldstein-financial-investments-inc",
@@ -1148,16 +1148,16 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7673,
+      "longitude": -79.4111
     },
     {
       "id": "goodwood-inc",
       "name": "Goodwood Inc.",
-      "address": "75 Navy Street, Suite 403Oakville ON L6J 2Z",
+      "address": "75 Navy Street, Suite 403 Oakville",
       "city": "Oakville",
       "province": "ON",
-      "postalCode": "",
+      "postalCode": "L6J 2Z",
       "phone": "416-203-2022",
       "website": "http://www.goodwoodfunds.com/",
       "category": "Investment Dealer",
@@ -1176,8 +1176,8 @@
       "website": "http://www.gpwealth.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6505,
+      "longitude": -79.5517
     },
     {
       "id": "groupe-cloutier-investments-inc",
@@ -1190,8 +1190,8 @@
       "website": "https://www.groupecloutier.com/accueil",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 46.3458,
+      "longitude": -72.5716
     },
     {
       "id": "hampton-securities-limited",
@@ -1204,8 +1204,8 @@
       "website": "https://www.hamptonsecurities.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "harbourfront-wealth-management-inc",
@@ -1218,8 +1218,8 @@
       "website": "https://www.harbourfrontwealth.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2833,
+      "longitude": -123.1298
     },
     {
       "id": "haywood-securities-inc",
@@ -1232,8 +1232,8 @@
       "website": "https://www.haywood.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2866,
+      "longitude": -123.1158
     },
     {
       "id": "highgate-group-inc",
@@ -1246,8 +1246,8 @@
       "website": "http://www.highgategroup.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "hub-capital-inc",
@@ -1260,8 +1260,8 @@
       "website": "https://www.hubcapital.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8064,
+      "longitude": -79.5995
     },
     {
       "id": "ia-private-wealth-inc",
@@ -1274,8 +1274,8 @@
       "website": "https://iaprivatewealth.ca/",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.504,
+      "longitude": -73.5747
     },
     {
       "id": "icp-securities-inc",
@@ -1288,8 +1288,8 @@
       "website": "http://www.icpsecurities.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6555,
+      "longitude": -79.3626
     },
     {
       "id": "ig-wealth-management-inc",
@@ -1302,8 +1302,8 @@
       "website": "https://www.ig.ca/en",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.898,
+      "longitude": -97.1401
     },
     {
       "id": "independent-trading-group-itg-inc",
@@ -1316,8 +1316,8 @@
       "website": "https://independent-trading-group.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6456,
+      "longitude": -79.3754
     },
     {
       "id": "infor-financial-inc",
@@ -1330,8 +1330,8 @@
       "website": "https://inforfg.com/infor-financial-inc",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "instinet-canada-cross-limited",
@@ -1344,8 +1344,8 @@
       "website": "https://www.icxats.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "instinet-canada-limited",
@@ -1358,8 +1358,8 @@
       "website": "https://www.instinet.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "integral-wealth-securities-limited",
@@ -1372,8 +1372,8 @@
       "website": "https://www.integralwealth.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "intelligentinvesting-securities-inc",
@@ -1386,8 +1386,8 @@
       "website": "https://web.mogotrade.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "interactive-brokers-canada-inc",
@@ -1400,8 +1400,8 @@
       "website": "https://www.interactivebrokers.ca/en/home.php",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.504,
+      "longitude": -73.5747
     },
     {
       "id": "investia-financial-services-incorporated",
@@ -1414,8 +1414,8 @@
       "website": "http://investia.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 46.814,
+      "longitude": -71.2194
     },
     {
       "id": "ipc-investment-corporation",
@@ -1428,8 +1428,8 @@
       "website": "http://www.ipcc.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6413,
+      "longitude": -79.6296
     },
     {
       "id": "ipc-securities-corporation",
@@ -1442,8 +1442,8 @@
       "website": "https://www.ipcc.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6413,
+      "longitude": -79.6296
     },
     {
       "id": "j-p-morgan-securities-canada-inc",
@@ -1456,16 +1456,16 @@
       "website": "https://www.jpmorgan.com/CA/en/about-us",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "jane-street-canada-markets-ulc",
       "name": "Jane Street Canada Markets, ULC",
-      "address": "250 Vesey Street, 18FLNew York, NY 10281",
-      "city": "",
-      "province": "",
-      "postalCode": "",
+      "address": "250 Vesey Street, 18FL",
+      "city": "New York",
+      "province": "New York",
+      "postalCode": "10281",
       "phone": "+1 646-759-3000",
       "website": "https://www.janestreet.com/",
       "category": "Investment Dealer",
@@ -1484,8 +1484,8 @@
       "website": "https://www.jcclark.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "jefferies-securities-inc",
@@ -1498,8 +1498,8 @@
       "website": "https://www.jefferies.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "jitneytrade-inc",
@@ -1512,16 +1512,16 @@
       "website": "https://mybusinessmigration.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5057,
+      "longitude": -73.555
     },
     {
       "id": "jonestrading-canada-inc",
       "name": "JonesTrading Canada Inc.",
-      "address": "32133 Lindero Canyon RoadSuite 208Westlake Village CA 91361",
-      "city": "",
-      "province": "",
-      "postalCode": "",
+      "address": "32133 Lindero Canyon Road Suite 208",
+      "city": "Westlake Village",
+      "province": "CA",
+      "postalCode": "91361",
       "phone": "416-961-4674",
       "website": "http://www.jonestradingcanada.com/",
       "category": "Investment Dealer",
@@ -1540,8 +1540,8 @@
       "website": "http://www.kernaghanpartners.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "keybase-financial-group-inc",
@@ -1554,8 +1554,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8582,
+      "longitude": -79.3985
     },
     {
       "id": "kingwest-company",
@@ -1568,8 +1568,8 @@
       "website": "http://www.kingwest.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6736,
+      "longitude": -79.4035
     },
     {
       "id": "lakeshore-securities-inc",
@@ -1582,8 +1582,8 @@
       "website": "https://www.lakeshoresecurities.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.4757,
+      "longitude": -79.6591
     },
     {
       "id": "laurentian-bank-securities-inc",
@@ -1596,8 +1596,8 @@
       "website": "https://www.vmbl.ca/portal/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4987,
+      "longitude": -73.5793
     },
     {
       "id": "lbc-financial-services",
@@ -1610,8 +1610,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4987,
+      "longitude": -73.5793
     },
     {
       "id": "leede-financial-inc",
@@ -1624,8 +1624,8 @@
       "website": "https://leede.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "lightyear-capital-inc",
@@ -1638,8 +1638,8 @@
       "website": "https://www.lightyearcapital.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "liquidnet-canada-inc",
@@ -1652,8 +1652,8 @@
       "website": "https://www.liquidnet.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "lp-financial-planning-services-ltd",
@@ -1666,8 +1666,8 @@
       "website": "http://www.lawtonpartners.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 50.011,
+      "longitude": -97.2184
     },
     {
       "id": "maison-placements-canada-inc",
@@ -1680,8 +1680,8 @@
       "website": "https://maisonplacements.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "mandeville-private-client-inc",
@@ -1694,8 +1694,8 @@
       "website": "https://www.mandevilleinc.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.3806,
+      "longitude": -79.886
     },
     {
       "id": "manulife-wealth-inc",
@@ -1708,16 +1708,16 @@
       "website": "https://www.manulifewealth.ca/clients/en",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.3799,
+      "longitude": -79.7668
     },
     {
       "id": "marketaxess-canada-company",
       "name": "MarketAxess Canada Company",
-      "address": "55 Hudson Yards15th FloorNew York NY 10001",
-      "city": "",
-      "province": "",
-      "postalCode": "",
+      "address": "55 Hudson Yards 15th Floor",
+      "city": "New York NY",
+      "province": "NY",
+      "postalCode": "10001",
       "phone": "212-813-6000",
       "website": "https://www.marketaxess.com/",
       "category": "Investment Dealer",
@@ -1736,8 +1736,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 48.4167,
+      "longitude": -123.365
     },
     {
       "id": "md-management-limited",
@@ -1750,8 +1750,8 @@
       "website": "https://mdm.ca/md-financial-management",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.3548,
+      "longitude": -75.5773
     },
     {
       "id": "merrill-lynch-canada-inc",
@@ -1764,8 +1764,8 @@
       "website": "https://www.bofaml.com/content/boaml/en_us/home.html",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "mica-capital-inc",
@@ -1778,8 +1778,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 46.8399,
+      "longitude": -71.2781
     },
     {
       "id": "miles-santo-and-associates-inc",
@@ -1792,8 +1792,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 44.0586,
+      "longitude": -79.6235
     },
     {
       "id": "mirabaud-canada-inc",
@@ -1806,16 +1806,16 @@
       "website": "https://www.mirabaud.com/en/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "mizuho-securities-canada-inc",
       "name": "Mizuho Securities Canada Inc.",
-      "address": "320 Park Avenue12th FloorNew York NY 10022",
-      "city": "",
-      "province": "",
-      "postalCode": "",
+      "address": "320 Park Avenue 12th Floor",
+      "city": "New York NY",
+      "province": "New York NY",
+      "postalCode": "10022",
       "phone": "212-209-9300",
       "website": "https://www.mizuhogroup.com/securities",
       "category": "Investment Dealer",
@@ -1834,8 +1834,8 @@
       "website": "http://www.monarchwealth.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6413,
+      "longitude": -79.6296
     },
     {
       "id": "moneystrat-securities-inc",
@@ -1848,8 +1848,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6899,
+      "longitude": -79.3853
     },
     {
       "id": "moomoo-financial-canada-inc",
@@ -1862,8 +1862,8 @@
       "website": "https://www.moomoo.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7673,
+      "longitude": -79.4111
     },
     {
       "id": "morgan-stanley-canada-limited",
@@ -1876,8 +1876,8 @@
       "website": "https://www.morganstanley.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "morgan-stanley-wealth-management-canada-inc",
@@ -1890,8 +1890,8 @@
       "website": "https://www.morganstanley.com/about-us/global-offices/americas/canada",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "mufg-securities-canada-ltd",
@@ -1904,8 +1904,8 @@
       "website": "https://www.mufgemea.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "national-bank-financial-inc",
@@ -1918,8 +1918,8 @@
       "website": "https://nbfwm.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "national-bank-savings-and-investments-inc",
@@ -1932,8 +1932,8 @@
       "website": "http://www.nbc.ca/investment",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.498,
+      "longitude": -73.5472
     },
     {
       "id": "ndax-canada-inc",
@@ -1946,8 +1946,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0272,
+      "longitude": -114.0349
     },
     {
       "id": "networth-financial-corp",
@@ -1960,8 +1960,8 @@
       "website": "http://www.networthfinancial.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 52.2316,
+      "longitude": -113.8358
     },
     {
       "id": "newton-crypto-ltd",
@@ -1974,8 +1974,8 @@
       "website": "https://www.newton.co/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "nour-private-wealth-inc",
@@ -1988,8 +1988,8 @@
       "website": "https://www.npw.ca/",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.4881,
+      "longitude": -79.7098
     },
     {
       "id": "oakhaven-wealth-advisors-inc",
@@ -2002,8 +2002,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 44.3572,
+      "longitude": -79.6929
     },
     {
       "id": "oanda-canada-corporation-ulc",
@@ -2016,8 +2016,8 @@
       "website": "https://www1.oanda.com/resources/legal/canada/legal/joint-account",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6404,
+      "longitude": -79.3995
     },
     {
       "id": "ocean-6-investment-solutions-inc",
@@ -2030,8 +2030,8 @@
       "website": "https://ocean6.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.262,
+      "longitude": -123.0923
     },
     {
       "id": "odlum-brown-limited",
@@ -2044,8 +2044,8 @@
       "website": "https://www.odlumbrown.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2866,
+      "longitude": -123.1158
     },
     {
       "id": "olympian-financial-inc",
@@ -2058,8 +2058,8 @@
       "website": "http://olympianfinancial.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7135,
+      "longitude": -79.3887
     },
     {
       "id": "omg-wealth-management-inc",
@@ -2072,8 +2072,8 @@
       "website": "https://www.omg.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.2717,
+      "longitude": -66.0584
     },
     {
       "id": "omnivita-custom-wealth-management-inc",
@@ -2086,8 +2086,8 @@
       "website": "https://www.omnivitawealth.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2819,
+      "longitude": -123.119
     },
     {
       "id": "optimize-wealth-management-inc",
@@ -2100,8 +2100,8 @@
       "website": "http://www.optimize.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "paradigm-capital-inc",
@@ -2114,8 +2114,8 @@
       "website": "https://www.paradigmcap.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "peak-investment-services-inc",
@@ -2128,8 +2128,8 @@
       "website": "https://www.peakgroup.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "peak-securities-inc",
@@ -2142,8 +2142,8 @@
       "website": "https://www.peakgroup.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.504,
+      "longitude": -73.5747
     },
     {
       "id": "pembroke-private-wealth-management-ltd",
@@ -2156,8 +2156,8 @@
       "website": "http://www.pml.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.504,
+      "longitude": -73.5747
     },
     {
       "id": "perimeter-markets-inc",
@@ -2170,8 +2170,8 @@
       "website": "http://www.pfin.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "perry-securities-ltd",
@@ -2184,8 +2184,8 @@
       "website": "https://www.gpdowntown.com/business/perry-securities/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 55.1808,
+      "longitude": -118.9103
     },
     {
       "id": "peters-co-limited",
@@ -2198,8 +2198,8 @@
       "website": "https://www.petersco.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "pewter-financial-ltd",
@@ -2212,8 +2212,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 50.9819,
+      "longitude": -114.1004
     },
     {
       "id": "pfsl-investments-canada-ltd",
@@ -2226,8 +2226,8 @@
       "website": "http://www.primericacanada.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.5924,
+      "longitude": -79.7611
     },
     {
       "id": "pgm-global-inc",
@@ -2240,8 +2240,8 @@
       "website": "https://www.paviliongm.com/global-markets/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "phillips-hager-north-investment-funds-ltd",
@@ -2254,8 +2254,8 @@
       "website": "https://www.phn.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2866,
+      "longitude": -123.1158
     },
     {
       "id": "pictet-canada-l-p",
@@ -2268,8 +2268,8 @@
       "website": "https://www.group.pictet/about/worldwide-offices/montreal",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5005,
+      "longitude": -73.5684
     },
     {
       "id": "planmar-financial-corp",
@@ -2282,8 +2282,8 @@
       "website": "http://www.planmar.net/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 42.9835,
+      "longitude": -81.2386
     },
     {
       "id": "plus500ca-ltd",
@@ -2296,8 +2296,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7673,
+      "longitude": -79.4111
     },
     {
       "id": "pollitt-co-inc",
@@ -2310,8 +2310,8 @@
       "website": "https://pollitt.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6437,
+      "longitude": -79.3787
     },
     {
       "id": "portfolio-hiway-inc",
@@ -2324,8 +2324,8 @@
       "website": "https://www.portfoliohiway.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7301,
+      "longitude": -79.3935
     },
     {
       "id": "portfolio-strategies-corporation",
@@ -2338,8 +2338,8 @@
       "website": "http://www.portfoliostrategies.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 50.9894,
+      "longitude": -114.052
     },
     {
       "id": "professional-investments-kingston-inc",
@@ -2352,8 +2352,8 @@
       "website": "http://www.pro-invest.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 44.2814,
+      "longitude": -76.6111
     },
     {
       "id": "professionals-financial-private-management-inc",
@@ -2366,8 +2366,8 @@
       "website": "https://www.fprofessionnels.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5066,
+      "longitude": -73.5623
     },
     {
       "id": "progressive-financial-strategy-capital-group-corp",
@@ -2380,8 +2380,8 @@
       "website": "http://www.pfs.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.606,
+      "longitude": -79.6708
     },
     {
       "id": "pwl-capital-inc",
@@ -2394,8 +2394,8 @@
       "website": "https://www.pwlcapital.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4825,
+      "longitude": -73.5933
     },
     {
       "id": "quadrus-investment-services-ltd",
@@ -2408,8 +2408,8 @@
       "website": "http://www.quadrusinvestmentservices.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 42.9976,
+      "longitude": -81.2563
     },
     {
       "id": "queen-financial-group-inc",
@@ -2422,8 +2422,8 @@
       "website": "http://www.queenfinancial.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8479,
+      "longitude": -79.3288
     },
     {
       "id": "queensbury-securities-inc",
@@ -2436,8 +2436,8 @@
       "website": "https://queensbury.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6456,
+      "longitude": -79.3754
     },
     {
       "id": "questrade-inc",
@@ -2450,8 +2450,8 @@
       "website": "https://www.questrade.com/home",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7915,
+      "longitude": -79.4103
     },
     {
       "id": "r-j-o-brien-associates-canada-inc",
@@ -2464,8 +2464,8 @@
       "website": "https://www.rjobrien.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "rabo-securities-canada-inc",
@@ -2478,8 +2478,8 @@
       "website": "https://www.rabobank.com/en/locate-us/americas/canada.html",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "raymond-james-ltd",
@@ -2492,8 +2492,8 @@
       "website": "https://www.raymondjames.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2866,
+      "longitude": -123.1158
     },
     {
       "id": "rbc-direct-investing-inc",
@@ -2506,8 +2506,8 @@
       "website": "https://www.rbcdirectinvesting.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6404,
+      "longitude": -79.3995
     },
     {
       "id": "rbc-dominion-securities-inc",
@@ -2520,8 +2520,8 @@
       "website": "https://www.rbcds.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "red-cloud-securities-inc",
@@ -2534,8 +2534,8 @@
       "website": "https://redcloudsecurities.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "research-capital-corporation",
@@ -2548,8 +2548,8 @@
       "website": "https://www.researchcapital.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "retire-first-ltd",
@@ -2562,8 +2562,8 @@
       "website": "https://retirefirst.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 52.2316,
+      "longitude": -113.8358
     },
     {
       "id": "rgf-wealth-management-ltd",
@@ -2576,8 +2576,8 @@
       "website": "https://www.rgfwealth.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2603,
+      "longitude": -123.146
     },
     {
       "id": "richardson-wealth-limited",
@@ -2590,8 +2590,8 @@
       "website": "https://www.richardsonwealth.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "rissling-financial-corporation",
@@ -2604,8 +2604,8 @@
       "website": "",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 52.0403,
+      "longitude": -106.6595
     },
     {
       "id": "roth-canada-inc",
@@ -2618,8 +2618,8 @@
       "website": "https://www.rothcanada.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "royal-mutual-funds-inc",
@@ -2632,8 +2632,8 @@
       "website": "http://www.rbc.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "sandstone-asset-management-inc",
@@ -2646,8 +2646,8 @@
       "website": "https://www.sandstoneam.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "sanford-c-bernstein-canada-limited",
@@ -2660,8 +2660,8 @@
       "website": "https://www.bernsteinresearch.com/brweb/Public/Login.aspx?ReturnUrl=/brweb/Home.aspx",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6492,
+      "longitude": -79.3823
     },
     {
       "id": "scotia-capital-inc",
@@ -2674,8 +2674,8 @@
       "website": "https://www.gbm.scotiabank.com/en.html",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "scotia-securities-inc",
@@ -2688,8 +2688,8 @@
       "website": "https://www.scotiafunds.com/en/home/resources/accounts-services.html",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "scp-resource-finance-lp",
@@ -2702,8 +2702,8 @@
       "website": "http://www.scp-rf.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "security-financial-services-investment-corp",
@@ -2716,8 +2716,8 @@
       "website": "http://www.securityfinancial.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8064,
+      "longitude": -79.5995
     },
     {
       "id": "secutor-capital-management-corporation",
@@ -2730,8 +2730,8 @@
       "website": "https://www.secutor.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6889,
+      "longitude": -79.4507
     },
     {
       "id": "select-vantage-canada-inc",
@@ -2744,8 +2744,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6629,
+      "longitude": -79.3987
     },
     {
       "id": "sentinel-financial-management-corp",
@@ -2758,8 +2758,8 @@
       "website": "https://sentinelgroup.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 52.0111,
+      "longitude": -106.7955
     },
     {
       "id": "sera-global-securities-canada-lp",
@@ -2772,8 +2772,8 @@
       "website": "https://www.seraadvisory.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "shah-financial-planning-inc",
@@ -2786,8 +2786,8 @@
       "website": "http://www.shahfinancial.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8001,
+      "longitude": -79.4829
     },
     {
       "id": "shakepay-inc",
@@ -2800,8 +2800,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.5057,
+      "longitude": -73.555
     },
     {
       "id": "sherbrooke-street-capital-ssc-inc",
@@ -2814,8 +2814,8 @@
       "website": "https://sherbrookestreetcapital.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4737,
+      "longitude": -73.5882
     },
     {
       "id": "sig-north-trading-ulc",
@@ -2842,8 +2842,8 @@
       "website": "https://www.sightlinewealthmanagement.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "smbc-nikko-securities-canada-ltd",
@@ -2870,8 +2870,8 @@
       "website": "https://americas.societegenerale.com/en/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.504,
+      "longitude": -73.5747
     },
     {
       "id": "state-street-global-markets-canada-inc",
@@ -2884,8 +2884,8 @@
       "website": "https://www.statestreet.com/about/office-locations/canada.html",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "steadyhand-investment-funds-inc",
@@ -2898,8 +2898,8 @@
       "website": "http://www.steadyhand.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.2603,
+      "longitude": -123.146
     },
     {
       "id": "stephenavenue-securities-inc",
@@ -2912,8 +2912,8 @@
       "website": "https://www.stephenavenue.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6404,
+      "longitude": -79.3995
     },
     {
       "id": "sterling-mutuals-inc",
@@ -2926,8 +2926,8 @@
       "website": "http://www.sterlingmutuals.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 42.2007,
+      "longitude": -83.0276
     },
     {
       "id": "stifel-nicolaus-canada-inc",
@@ -2940,8 +2940,8 @@
       "website": "https://stifelinstitutional.com/global-coverage/canada/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "stonex-financial-canada-inc",
@@ -2954,8 +2954,8 @@
       "website": "https://www.stonex.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6513,
+      "longitude": -79.3756
     },
     {
       "id": "sun-life-canada-securities-inc",
@@ -2968,8 +2968,8 @@
       "website": "https://www.sunlife.ca/en/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "sun-life-financial-investment-services-canada-inc",
@@ -2982,8 +2982,8 @@
       "website": "http://www.sunlife.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.504,
+      "longitude": -80.5366
     },
     {
       "id": "tangerine-investment-funds-limited",
@@ -2996,8 +2996,8 @@
       "website": "https://www.tangerine.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8015,
+      "longitude": -79.3577
     },
     {
       "id": "td-investment-services-inc",
@@ -3010,8 +3010,8 @@
       "website": "http://www.tdcanadatrust.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "td-securities-inc",
@@ -3024,8 +3024,8 @@
       "website": "https://www.tdsecurities.com/ca/en/home-page",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "td-waterhouse-canada-inc",
@@ -3038,8 +3038,8 @@
       "website": "https://www.td.com/ca/en/investing/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "tradelogiq-markets-inc",
@@ -3052,8 +3052,8 @@
       "website": "https://tradelogiq.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "tradex-management-inc",
@@ -3066,8 +3066,8 @@
       "website": "https://www.tradex.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4123,
+      "longitude": -75.7108
     },
     {
       "id": "tradezero-canada-securities-ulc",
@@ -3080,8 +3080,8 @@
       "website": "https://www.tradezero.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6456,
+      "longitude": -79.3754
     },
     {
       "id": "tudor-pickering-holt-co-securities-canada-ulc",
@@ -3094,8 +3094,8 @@
       "website": "https://www.tphco.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 51.0708,
+      "longitude": -113.6931
     },
     {
       "id": "twmg-inc",
@@ -3108,8 +3108,8 @@
       "website": "http://twmg.net/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 45.4979,
+      "longitude": -73.6886
     },
     {
       "id": "ubs-securities-canada-inc",
@@ -3122,8 +3122,8 @@
       "website": "https://www.ubs.com/ca/en.html",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "velocity-trade-capital-ltd",
@@ -3136,8 +3136,8 @@
       "website": "https://velocitytrade.com/company/velocity-trade-capital/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "ventum-financial-corp",
@@ -3150,8 +3150,8 @@
       "website": "https://ventumfinancial.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.623,
+      "longitude": -79.3936
     },
     {
       "id": "virtu-canada-corp",
@@ -3164,8 +3164,8 @@
       "website": "https://www.virtu.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6469,
+      "longitude": -79.3823
     },
     {
       "id": "w-d-latimer-co-limited",
@@ -3178,8 +3178,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6404,
+      "longitude": -79.3995
     },
     {
       "id": "watt-carmichael-inc",
@@ -3192,8 +3192,8 @@
       "website": "https://www.wattcarmichael.com/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "wealthforce-inc",
@@ -3206,8 +3206,8 @@
       "website": "https://wealthforce.ca/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.745,
+      "longitude": -79.359
     },
     {
       "id": "wealthsimple-investments-inc",
@@ -3220,8 +3220,8 @@
       "website": "http://www.wealthsimpleinvestments.com/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6404,
+      "longitude": -79.3995
     },
     {
       "id": "webull-canada-crypto-limited",
@@ -3234,8 +3234,8 @@
       "website": "",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "webull-securities-canada-limited",
@@ -3248,8 +3248,8 @@
       "website": "https://www.webull.ca/",
       "category": "Investment Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "wellington-altus-private-wealth-inc",
@@ -3262,8 +3262,8 @@
       "website": "https://wellington-altus.ca/",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.898,
+      "longitude": -97.1401
     },
     {
       "id": "wells-fargo-securities-canada-ltd",
@@ -3276,8 +3276,8 @@
       "website": "https://www.wellsfargo.ca/securitiesandmarkets",
       "category": "Investment Dealer",
       "participant": true,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.6496,
+      "longitude": -79.3833
     },
     {
       "id": "wfg-securities-inc",
@@ -3290,8 +3290,8 @@
       "website": "http://www.worldfinancialgroup.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.7673,
+      "longitude": -79.4111
     },
     {
       "id": "worldsource-financial-management-inc",
@@ -3304,8 +3304,8 @@
       "website": "https://www.worldsourcefinancial.com/",
       "category": "Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.8479,
+      "longitude": -79.3288
     },
     {
       "id": "worldsource-wealth-management-inc",
@@ -3318,8 +3318,8 @@
       "website": "https://www.worldsourcesecurities.com/en/sites/wwm-wsi/home/home.html",
       "category": "Investment Dealer & Mutual Fund Dealer",
       "participant": false,
-      "latitude": null,
-      "longitude": null
+      "latitude": 46.8074,
+      "longitude": -71.2181
     }
   ]
 }
