@@ -1,78 +1,48 @@
-// scripts/geoCode.js
-// Offline geocoding — no API, no key, no rate limits, no network calls.
-//
-// ONE-TIME SETUP (run in terminal from project root):
-//   curl -o scripts/CA.zip https://download.geonames.org/export/zip/CA.zip
-//   unzip -o scripts/CA.zip -d scripts/
-//
-// THEN:
-//   node scripts/geoCode.js
+import fs from "fs"
 
-import fs from "node:fs"
+const filePath = "./public/data/dealers.json"
 
-const DEALERS = "public/data/dealers.json"
-const SOURCE = "scripts/CA.txt" // from GeoNames CA.zip
+const data = JSON.parse(fs.readFileSync(filePath, "utf8"))
 
-/* ---------------------------------------------------------- */
-/* 1. Build FSA lookup from the local GeoNames file            */
-/* ---------------------------------------------------------- */
+console.log(`Found ${data.dealers.length} dealers`)
 
-if (!fs.existsSync(SOURCE)) {
-  console.error(`Missing ${SOURCE}\n`)
-  console.error("Run these two commands first:\n")
-  console.error("  curl -o scripts/CA.zip https://download.geonames.org/export/zip/CA.zip")
-  console.error("  unzip -o scripts/CA.zip -d scripts/\n")
-  process.exit(1)
+function buildAddress(dealer) {
+  return [
+    dealer.address.replace(/^Suite\s*#?\d+[A-Za-z]*,\s*/i, ""),
+    dealer.city,
+    dealer.province,
+    dealer.postalCode,
+    "Canada",
+  ]
+    .filter(Boolean)
+    .join(", ")
 }
 
-// GeoNames format: tab-separated, no header
-// 0=country 1=postal 2=place 3=admin1 4=admin1code ... 9=lat 10=lng 11=accuracy
-const lookup = {}
+const dealer = data.dealers[0]
 
-for (const line of fs.readFileSync(SOURCE, "utf8").split("\n")) {
-  if (!line.trim()) continue
-  const cols = line.split("\t")
+const address = buildAddress(dealer)
 
-  const fsa = String(cols[1] || "").toUpperCase().replace(/\s/g, "").slice(0, 3)
-  const lat = Number(cols[9])
-  const lng = Number(cols[10])
+console.log("Geocoding:")
+console.log(address)
 
-  if (!fsa || !Number.isFinite(lat) || !Number.isFinite(lng)) continue
-  if (lookup[fsa]) continue // first entry per FSA wins
+const response = await fetch(
+  `https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&q=${encodeURIComponent(address)}`,
+  {
+    headers: {
+      "User-Agent": "CIRO-Dealer-Map/1.0",
+    },
+  },
+)
 
-  lookup[fsa] = { lat, lng, place: cols[2], province: cols[4] }
-}
+const results = await response.json()
 
-console.log(`Loaded ${Object.keys(lookup).length} FSAs from ${SOURCE}`)
+console.log("Result:")
+console.log(results)
 
-/* ---------------------------------------------------------- */
-/* 2. Join against dealers.json                                */
-/* ---------------------------------------------------------- */
-
-const data = JSON.parse(fs.readFileSync(DEALERS, "utf8"))
-const dealers = data.dealers ?? data
-
-let matched = 0
-const misses = []
-
-for (const d of dealers) {
-  const fsa = String(d.postalCode || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 3)
-  const hit = lookup[fsa]
-
-  if (hit) {
-    d.latitude = hit.lat
-    d.longitude = hit.lng
-    matched++
-  } else {
-    misses.push(`${d.name} — postal: "${d.postalCode ?? "(none)"}"`)
-  }
-}
-
-fs.writeFileSync(DEALERS, JSON.stringify(data, null, 2))
-
-console.log(`Matched ${matched}/${dealers.length} dealers.`)
-
-if (misses.length) {
-  console.log("\nNo match:")
-  misses.forEach((m) => console.log("  " + m))
+if (results.length > 0) {
+  console.log("Latitude:", results[0].lat)
+  console.log("Longitude:", results[0].lon)
+  console.log("Matched address:", results[0].display_name)
+} else {
+  console.log("No geocoding result found.")
 }
