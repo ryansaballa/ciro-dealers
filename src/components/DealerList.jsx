@@ -3,7 +3,11 @@
 
 export default function DealerList({ dealers, selected, onSelect }) {
   if (!dealers.length) {
-    return <p className="p-4 text-sm text-slate-500">No dealers match your filters.</p>
+    return (
+      <p className="p-4 text-sm text-slate-500">
+        No dealers match your filters.
+      </p>
+    )
   }
 
   return (
@@ -25,6 +29,12 @@ export default function DealerList({ dealers, selected, onSelect }) {
               <span className="mt-1 inline-block rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-700">
                 {dealer.category}
               </span>
+            )}
+
+            {dealer.province && (
+              <p className="mt-2 text-sm text-slate-700">
+                Province: {dealer.province}
+              </p>
             )}
 
             {dealer.phone && (

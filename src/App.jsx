@@ -1,6 +1,7 @@
 // src/App.jsx
 
 import { useEffect, useMemo, useState } from "react"
+import "./App.css"
 import CanadaMap from "./components/CanadaMap"
 import DealerList from "./components/DealerList"
 
@@ -18,7 +19,11 @@ export default function App() {
   }, [])
 
   const provinces = useMemo(
-    () => ["All", ...new Set(dealers.map((d) => d.province).filter(Boolean))].sort(),
+    () =>
+      [
+        "All",
+        ...new Set(dealers.map((d) => d.province).filter(Boolean)),
+      ].sort(),
     [dealers],
   )
 
@@ -34,60 +39,73 @@ export default function App() {
 
   const mapped = filtered.filter((d) => d.latitude && d.longitude).length
 
+  const handleDealerSelect = (dealer) => {
+    setSelected((current) => {
+      const sameDealer =
+        current &&
+        current.name === dealer?.name &&
+        Number(current.latitude) === Number(dealer?.latitude) &&
+        Number(current.longitude) === Number(dealer?.longitude)
+
+      if (sameDealer) {
+        return {
+          ...dealer,
+          _zoomNonce: (current._zoomNonce ?? 0) + 1,
+        }
+      }
+
+      return dealer
+    })
+  }
+
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        height: "100vh",
-        fontFamily: "system-ui, sans-serif",
-      }}
-    >
-      <header style={{ padding: "16px 24px", borderBottom: "1px solid #e2e8f0" }}>
-        <h1 style={{ margin: 0, fontSize: 20 }}>CIRO Dealer Explorer</h1>
-        <p style={{ margin: "4px 0 0", fontSize: 14, color: "#64748b" }}>
+    <div className="app-shell">
+      <header className="app-header">
+        <h1>CIRO Dealer Explorer</h1>
+        <p>
           {filtered.length} of {dealers.length} dealers · {mapped} on map
         </p>
       </header>
 
-      <div
-        style={{
-          display: "flex",
-          gap: 12,
-          padding: "12px 24px",
-          borderBottom: "1px solid #e2e8f0",
-        }}
-      >
-        <input
-          type="text"
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-          placeholder="Search dealers…"
-          style={{ flex: 1, padding: "8px 12px", border: "1px solid #cbd5e1", borderRadius: 6 }}
-        />
-
-        <select
-          value={province}
-          onChange={(e) => setProvince(e.target.value)}
-          style={{ padding: "8px 12px", border: "1px solid #cbd5e1", borderRadius: 6 }}
-        >
-          {provinces.map((p) => (
-            <option key={p} value={p}>
-              {p === "All" ? "All provinces" : p}
-            </option>
-          ))}
-        </select>
-      </div>
-
       {/* minHeight: 0 is REQUIRED or the map collapses to 0px */}
-      <main style={{ display: "flex", flex: 1, minHeight: 0 }}>
-        <aside style={{ width: 360, overflowY: "auto", borderRight: "1px solid #e2e8f0" }}>
-          <DealerList dealers={filtered} selected={selected} onSelect={setSelected} />
-        </aside>
-
-        <section style={{ flex: 1, minHeight: 0 }}>
-          <CanadaMap dealers={filtered} selected={selected} onSelect={setSelected} />
+      <main className="app-main">
+        <section className="app-map-panel">
+          <CanadaMap
+            dealers={filtered}
+            selected={selected}
+            onSelect={handleDealerSelect}
+          />
         </section>
+
+        <div className="app-toolbar">
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="Search dealers…"
+            className="search-input"
+          />
+
+          <select
+            value={province}
+            onChange={(e) => setProvince(e.target.value)}
+            className="province-select"
+          >
+            {provinces.map((p) => (
+              <option key={p} value={p}>
+                {p === "All" ? "All provinces" : p}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <aside className="app-sidebar">
+          <DealerList
+            dealers={filtered}
+            selected={selected}
+            onSelect={handleDealerSelect}
+          />
+        </aside>
       </main>
     </div>
   )
