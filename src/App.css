@@ -28,15 +28,26 @@
   border: 1px solid #cbd5e1;
   border-radius: 6px;
   padding: 8px 12px;
+  box-sizing: border-box;
+  height: 42px;
+  min-height: 42px;
+  max-height: 42px;
+  line-height: 1.25;
 }
 
 .search-input {
-  flex: 1;
-}
+  flex: 1 1 auto;
+  min-width: 0;
+  border-color:#a8c208;
+  }
+
+
+
 
 .app-main {
   display: grid;
   grid-template-columns: 360px minmax(0, 1fr);
+  grid-template-rows: auto minmax(0, 1fr);
   grid-template-areas:
     "toolbar map"
     "sidebar map";
@@ -53,6 +64,7 @@
   border-right: 1px solid #e2e8f0;
   grid-area: sidebar;
   box-sizing: border-box;
+  padding: 0.5em;
 }
 
 .app-sidebar ul {
@@ -107,10 +119,16 @@
 
   .app-toolbar {
     order: 2;
+    flex-direction: column;
     width: 100%;
     max-width: 100%;
     box-sizing: border-box;
     border-bottom: 1px solid #e2e8f0;
+  }
+
+  .search-input,
+  .province-select {
+    width: 100%;
   }
 
   .app-sidebar {
