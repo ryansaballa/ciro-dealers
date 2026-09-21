@@ -104,10 +104,9 @@ export default function App() {
           <p className="toolbar-summary">
             {filtered.length} of {dealers.length} dealers · {mapped} on map
           </p>
-
-          
+        
         </div>
-
+            
         <aside className="app-sidebar">
           <DealerList
             dealers={filtered}
@@ -115,6 +114,7 @@ export default function App() {
             onSelect={handleDealerSelect}
           />
         </aside>
+        
       </main>
     </div>
   )
