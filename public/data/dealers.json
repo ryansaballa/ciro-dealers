@@ -1459,20 +1459,7 @@
       "latitude": 43.6469,
       "longitude": -79.3823
     },
-    {
-      "id": "jane-street-canada-markets-ulc",
-      "name": "Jane Street Canada Markets, ULC",
-      "address": "250 Vesey Street, 18FL",
-      "city": "New York",
-      "province": "New York",
-      "postalCode": "10281",
-      "phone": "+1 646-759-3000",
-      "website": "https://www.janestreet.com/",
-      "category": "Investment Dealer",
-      "participant": true,
-      "latitude": null,
-      "longitude": null
-    },
+    
     {
       "id": "jc-clark-ltd",
       "name": "JC Clark Ltd.",
@@ -1711,20 +1698,7 @@
       "latitude": 43.3799,
       "longitude": -79.7668
     },
-    {
-      "id": "marketaxess-canada-company",
-      "name": "MarketAxess Canada Company",
-      "address": "55 Hudson Yards 15th Floor",
-      "city": "New York NY",
-      "province": "NY",
-      "postalCode": "10001",
-      "phone": "212-813-6000",
-      "website": "https://www.marketaxess.com/",
-      "category": "Investment Dealer",
-      "participant": false,
-      "latitude": null,
-      "longitude": null
-    },
+    
     {
       "id": "mclean-financial-management-inc",
       "name": "McLean Financial Management Inc.",
@@ -1809,20 +1783,7 @@
       "latitude": 45.5005,
       "longitude": -73.5684
     },
-    {
-      "id": "mizuho-securities-canada-inc",
-      "name": "Mizuho Securities Canada Inc.",
-      "address": "320 Park Avenue 12th Floor",
-      "city": "New York NY",
-      "province": "New York NY",
-      "postalCode": "10022",
-      "phone": "212-209-9300",
-      "website": "https://www.mizuhogroup.com/securities",
-      "category": "Investment Dealer",
-      "participant": false,
-      "latitude": null,
-      "longitude": null
-    },
+    
     {
       "id": "monarch-wealth-corporation",
       "name": "Monarch Wealth Corporation",
@@ -2845,20 +2806,7 @@
       "latitude": 43.623,
       "longitude": -79.3936
     },
-    {
-      "id": "smbc-nikko-securities-canada-ltd",
-      "name": "SMBC Nikko Securities Canada, Ltd.",
-      "address": "277 Park AvenueNew York NY 10172",
-      "city": "",
-      "province": "",
-      "postalCode": "",
-      "phone": "212-224-4074",
-      "website": "https://www.smbcnikko.co.jp/en/index.html",
-      "category": "Investment Dealer",
-      "participant": false,
-      "latitude": null,
-      "longitude": null
-    },
+    
     {
       "id": "societe-generale-capital-canada-inc",
       "name": "Société Générale Capital Canada Inc.",
