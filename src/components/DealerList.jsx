@@ -32,7 +32,7 @@ export default function DealerList({ dealers, selected, onSelect }) {
             )}
 
             {dealer.province && (
-              <p className="mt-2 text-sm text-slate-700">
+              <p className="dealer-province">
                 Province: {dealer.province}
               </p>
             )}

@@ -61,10 +61,14 @@ export default function App() {
   return (
     <div className="app-shell">
       <header className="app-header">
-        <h1>CIRO Dealer Explorer</h1>
-        <p>
-          {filtered.length} of {dealers.length} dealers · {mapped} on map
-        </p>
+        <img
+          className="app-logo"
+          src="/imgs/CIRO_Logo_Acrynoym_White.svg"
+          alt="CIRO"
+        />
+        <div className="app-header-content">
+          <h1>Regulated Dealer Explorer</h1>
+        </div>
       </header>
 
       {/* minHeight: 0 is REQUIRED or the map collapses to 0px */}
@@ -78,14 +82,6 @@ export default function App() {
         </section>
 
         <div className="app-toolbar">
-          <input
-            type="text"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search dealers…"
-            className="search-input"
-          />
-
           <select
             value={province}
             onChange={(e) => setProvince(e.target.value)}
@@ -97,6 +93,19 @@ export default function App() {
               </option>
             ))}
           </select>
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="Search dealers…"
+            className="search-input"
+          />
+
+          <p className="toolbar-summary">
+            {filtered.length} of {dealers.length} dealers · {mapped} on map
+          </p>
+
+          
         </div>
 
         <aside className="app-sidebar">

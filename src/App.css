@@ -1,6 +1,23 @@
+h1 {
+  font-size: 42px;
+  letter-spacing: -1.68px;
+  margin: 32px 0;
+  @media (max-width: 1024px) {
+    font-size: 36px;
+    margin: 20px 0;
+  }
+}
 a {
   color: #023737;
   }
+
+.app-header h1,
+.app-header p {
+  color: #fff;
+  height:auto;
+  
+}
+
 
 .app-shell {
   display: flex;
@@ -9,148 +26,211 @@ a {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto 1.25em;
-  font-family: system-ui, sans-serif;
+  font-family: 'Google Sans Flex', sans-serif;
   box-sizing: border-box;
-  
 }
 
 .app-header {
-  padding: 16px 24px;
-  border-bottom: 1px solid #e2e8f0;
-  background-color: #f0ece8;
-}
-
-.app-toolbar {
   display: flex;
-  gap: 12px;
-  padding: 12px 24px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 24px;
   border-bottom: 1px solid #e2e8f0;
-  grid-area: toolbar;
-  box-sizing: border-box;
+  background-color: #023737;
 }
 
-.search-input,
-.province-select {
-  border: 1px solid #cbd5e1;
-  border-radius: 6px;
-  padding: 8px 12px;
-  box-sizing: border-box;
-  height: 42px;
-  min-height: 42px;
-  max-height: 42px;
-  line-height: 1.25;
+.app-logo {
+  display: block;
+  width: 320px;
+  height: auto;
+  flex: 0 0 auto;
 }
 
-.search-input {
-  flex: 1 1 auto;
-  min-width: 0;
-  border-color:#023737;
-  }
-
-
-
-
-.app-main {
-  display: grid;
-  grid-template-columns: 360px minmax(0, 1fr);
-  grid-template-rows: auto minmax(0, 1fr);
-  grid-template-areas:
-    "toolbar map"
-    "sidebar map";
-  flex: 1;
-  min-height: 0;
-  width: 100%;
-  max-width: 100%;
-}
-
-.app-sidebar {
-  width: 360px;
-  max-width: 100%;
-  overflow-y: auto;
-  border-right: 1px solid #e2e8f0;
-  grid-area: sidebar;
-  box-sizing: border-box;
-  padding: 0.5em;
-}
-
-.app-sidebar ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.app-sidebar li {
-  text-align: left;
-  padding: 1em;
-  border-bottom: 1px solid #f0ece8;
-}
-
-
-.app-sidebar h3{
-  font-size: 1rem;
-  font-weight: 400;
-  margin-bottom: 0.5em;
-}
-
-.app-sidebar h3,
-.app-sidebar span,
-.app-sidebar p {
-  text-align: left;
-  margin-top: 0;
-}
-
-.app-map-panel {
-  flex: 1;
-  min-height: 0;
-  grid-area: map;
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-}
-
-@media (max-width: 768px) {
-  .app-shell {
-    height: auto;
-    max-width: 100%;
-    overflow-x: hidden;
-  }
-
-  .app-main {
+  .app-header-content {
     display: flex;
     flex-direction: column;
-    width: 100%;
-    max-width: 100%;
+    align-items: flex-start;
+    gap: 8px;
+    min-width: 0;
   }
 
-  .app-map-panel {
-    order: 1;
-    width: 100%;
-    max-width: 100%;
-    min-height: 320px;
-    box-sizing: border-box;
+  @media (min-width: 794px) {
+  
+    .app-header {
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .app-header-content {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: baseline;
+      gap: 16px;
+    }
+  }
+
+  .app-header h1 {
+    margin: 0;
+  }
+
+  .app-header p {
+    margin: 0;
   }
 
   .app-toolbar {
-    order: 2;
-    flex-direction: column;
-    width: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 24px;
     border-bottom: 1px solid #e2e8f0;
+    grid-area: toolbar;
+    box-sizing: border-box;
+    background-color: #f0ece8;
   }
 
   .search-input,
   .province-select {
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-family: inherit;
+    box-sizing: border-box;
+    height: 42px;
+    min-height: 42px;
+    max-height: 42px;
+    line-height: 1.25;
+  }
+
+  .toolbar-summary {
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  .search-input {
+    flex: 1 1 auto;
+    min-width: 0;
+    border-color:#023737;
+    }
+
+
+
+
+  .app-main {
+    display: grid;
+    grid-template-columns: 360px minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr);
+    grid-template-areas:
+      "toolbar toolbar"
+      "sidebar map";
+    flex: 1;
+    min-height: 0;
     width: 100%;
+    max-width: 100%;
   }
 
   .app-sidebar {
-    order: 3;
+    width: 360px;
+    max-width: 100%;
+    overflow-y: auto;
+    border-right: 1px solid #e2e8f0;
+    grid-area: sidebar;
+    box-sizing: border-box;
+    padding: 0.5em;
+    color: #000;
+  }
+
+  .app-sidebar a {
+    color: #023737;
+  }
+
+  .app-sidebar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .app-sidebar li {
+    text-align: left;
+    padding: 1em;
+    border-bottom: 1px solid #f0ece8;
+  }
+
+
+  .app-sidebar h3{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 0.5em;
+  }
+
+  .app-sidebar h3,
+  .app-sidebar span,
+  .app-sidebar p {
+    text-align: left;
+    margin-top: 0;
+  }
+
+  .dealer-province {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+  }
+
+  .app-map-panel {
+    flex: 1;
+    min-height: 0;
+    grid-area: map;
     width: 100%;
     max-width: 100%;
-    border-right: none;
-    border-top: 1px solid #e2e8f0;
-    padding: 1rem;
     box-sizing: border-box;
   }
-}
+
+  @media (max-width: 768px) {
+    .app-shell {
+      height: auto;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    .app-main {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    
+
+    .app-map-panel {
+      order: 1;
+      width: 100%;
+      max-width: 100%;
+      min-height: 320px;
+      box-sizing: border-box;
+    }
+
+    .app-toolbar {
+      order: 2;
+      flex-direction: column;
+      width: 100%;
+      max-width: 100%;
+      box-sizing: border-box;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .search-input,
+    .province-select {
+      width: 100%;
+    }
+
+    .app-sidebar {
+      order: 3;
+      width: 100%;
+      max-width: 100%;
+      border-right: none;
+      border-top: 1px solid #e2e8f0;
+      padding: 1rem;
+      box-sizing: border-box;
+    }
+  }
