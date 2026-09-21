@@ -23,10 +23,10 @@ export default function DealerList({ dealers, selected, onSelect }) {
               isSelected ? "border-l-4 border-blue-600 bg-blue-50" : ""
             }`}
           >
-            <h3 className="font-semibold text-slate-900">{dealer.name}</h3>
+            <h3>{dealer.name}</h3>
 
             {dealer.category && (
-              <span className="mt-1 inline-block rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-700">
+              <span>
                 {dealer.category}
               </span>
             )}

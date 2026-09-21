@@ -165,11 +165,31 @@ a {
     margin-bottom: 0.5em;
   }
 
+  .app-sidebar h3:hover {
+    cursor: pointer;
+  }
+
+  .app-sidebar li h3 {
+    font-weight: 600;
+    color: #000;
+  }
+
+  .app-sidebar li span {
+    display: inline-block;
+  margin: 0.5rem 0rem;
+  border-radius: 0.25rem;
+  background-color: #f1f5f9;
+  padding: 0.125rem 0.5rem;
+  font-size: 0.75rem;
+  color: #000;
+  border: 0.05px solid #a8c208;
+  }
+
   .app-sidebar h3,
   .app-sidebar span,
   .app-sidebar p {
     text-align: left;
-    margin-top: 0;
+      margin: 0.5rem 0rem;
   }
 
   .dealer-province {
